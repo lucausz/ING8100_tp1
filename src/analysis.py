@@ -5,8 +5,8 @@ import os
 
 # Adjustable parameters (replicability)
 # TODO: Change START_YEAR and END_YEAR for the replicability part of the assignment
-START_YEAR = 1975
-END_YEAR = 2010
+START_YEAR = 1959
+END_YEAR = 2009
 DATA_FILE = "data/owid-co2-data.csv"
 OUTPUT_FILE = f"results/co2_temperature_{START_YEAR}_{END_YEAR}.png"
 
